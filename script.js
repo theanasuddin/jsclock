@@ -19,3 +19,5 @@ function setRotation(element, rotationRatio) {
 }
 
 setClock();
+var d = new Date();
+document.getElementById("day").innerHTML = d.getDate();
