@@ -451,6 +451,7 @@ body {
   color: #d0d0d0;
   text-align: center;
   transform: translate(-50%, -0%);
+  letter-spacing: 3px;
 }
 .footer a {
   text-decoration: none;
