@@ -3,6 +3,7 @@ setInterval(setClock, 1000);
 const hourHand = document.querySelector("[data-hour-hand]");
 const minuteHand = document.querySelector("[data-minute-hand]");
 const secondHand = document.querySelector("[data-second-hand]");
+const tick = document.querySelector("audio");
 
 function setClock() {
   const currentDate = new Date();
@@ -12,6 +13,7 @@ function setClock() {
   setRotation(secondHand, secondsRatio);
   setRotation(minuteHand, minutesRatio);
   setRotation(hourHand, hoursRatio);
+  tick.play();
 }
 
 function setRotation(element, rotationRatio) {
