@@ -1,4 +1,4 @@
 # Clock built with JS
 Click <a style="text-decoration: none;" href="https://theanasuddin.github.io/jsclock/" target="_blank">here</a> to check.
-<p><img src="https://lh3.googleusercontent.com/fife/ABSRlIr0DSnQtm0BKjgHjxs4L_RU56qCsvSpA1kT36ohNF8ZYt25qW-tA9XYdcfN5x2t7w_guPYpxFmVmpQTqHX44otyCPvQk1TAVemMlb-fonK7yEn2B8YN0pTsDybkIjO9AHhqGF4VtUzbyt92IoamoY2uy0BqyPCGEWppFTcnRnnbokZlrO37tQS8Zp7PR8RivGktpfC8a4IZy0ikLwdIFLlBKZkIVAtVFre_-WAyMU21TDbToxhuiX76jfE_clMAxXf2Pi_rZWvOyh330rBdrFx0uQCvjvg3Nj4gf2fGUiKfdMscRt4BLMh8D0dW_2qGOOGBJyMcLbJXxePpQYIVOAy4IuxHBqnHNHUbrkikoCDYjTDYkmfuaQlUwpom0djjtbClBkw-mkiUl3AZmQkEmK4QvhuNKdxIC_lZgJsH5MIDI6_mRT9_9-YTmpczDyLd6VjsIlZkykIRdHwFy0zBe3X2qoudNL3jzHO4QRq8iZA-tzNsCR4hwDZ6MsrLy6yNqY2sMnS2_i767KIP4JdnmEFoIvm02FML6Ru0v6_WDQCGkQDbYinLGbuJIq_fv0NTRBHyGoYKqTxpTs4Tk1b4j3wqOreVyGobzL30CktZXrCFDtxTITvFmlxHki0aH4iBrkyuMIkPlKi1heOxJo1Qo1cfQiwYUbeeqnw5ZFIB27RJozr2Iq7CkYA8cHnEuh2_RFXtVZZqGv2WHVlvpWktK4sCjN95pK1T9A=w2000-h1524-ft" alt="js clock"></p>
+<p><img src="https://raw.githubusercontent.com/theanasuddin/jsclock/master/js_clock.png" alt="js clock"></p>
 
